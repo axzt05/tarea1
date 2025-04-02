@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 USO DE RAMAS 
 -----------
 -CAMBIOS EN MNI PRIMERA RAMA MASTE4R_
+=======
+rama nosa
+--------------------------------------
+cambios en mi primera    rmaaa
+MI PRIMEWRA RAMA DEVELOPER--
+>>>>>>> developer
